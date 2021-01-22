@@ -81,5 +81,4 @@ client.hgetall(id,  (err, obj) =>{
     DEL key1
     (integer) 1
 ```
-"# redis" 
-"# redis" 
+
